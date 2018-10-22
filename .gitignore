@@ -1,0 +1,4 @@
+.env
+.vscode
+mail_slack.rb
+require.rb
